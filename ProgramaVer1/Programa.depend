@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1581054412 source:c:\users\jorge\documents\rockstar games\c++\programa\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<winsock2.h>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<cctype>
+	<cstring>
+	<cstdio>
+
